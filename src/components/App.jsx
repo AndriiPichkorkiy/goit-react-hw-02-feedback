@@ -4,8 +4,7 @@ import Statistics from './Statistics';
 import Section from './Section';
 import FeedbackOptions from './FeedbackOptions';
 
-import Container from './Container.styled';
-import Form from './Form.styled';
+import { Container, Form } from './AppStyles';
 
 import Drops from './Drops';
 

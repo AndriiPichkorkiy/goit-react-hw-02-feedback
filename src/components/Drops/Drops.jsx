@@ -1,4 +1,4 @@
-import Drop from './Drop.styled.js';
+import Drop from './Drop.js';
 
 const Drops = () => {
   const count = 5;
